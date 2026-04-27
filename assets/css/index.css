@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&family=Lexend:wght@100..900&display=swap');
+/* === INDEX === */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F1E8C7;
+}
+h1{
+    font-family: "Elms Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 100px;
+    color: #9CA764 ;
+}
+.carpeta img{
+    width: 100px;
+}
+#contenedor-inicio{
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+     min-height: 100vh;
+    
+}
+#contenedor-main{
+   
+}
+footer{
+    background-color: #9CA764;
+    width: auto;
+    padding: 15px;
+    margin-top: 30px;
+}
+footer img{
+    width: 100px;
+    border-radius: 10px;
+}
